@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    color: white;
+    min-height: 100vh;
+    background-image: url(beautiful-smiling-female-college-student-urbazon.jpg);
+}
+#inputField{
+    width: 100%;
+}
+
+#texte{
+  font-size: 30px;
+
+}
+form{
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 5px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    backdrop-filter: blur(15px);
+}
+    
+
